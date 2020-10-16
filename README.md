@@ -165,3 +165,4 @@ This [experimental Pushbullet channel](https://www.pushbullet.com/channel?tag=xo
 * Multimon-ng will not decode the same alert in succession. This should only be an issue during testing and can be avoided by alternating test alerts.
 
 ---
+[![Run on Repl.it](https://repl.it/badge/github/cuppa-joe/dsame)](https://repl.it/github/cuppa-joe/dsame)
